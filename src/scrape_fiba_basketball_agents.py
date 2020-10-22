@@ -112,5 +112,5 @@ for agent_id in agent_ids:
     print(f'{len(results)} / {len(agent_ids)} agents scraped!')
     
 df = pd.DataFrame(results)
-df.to_csv('nba_agents.csv', index=False)
+df.to_csv('./data/nba_agents.csv', index=False)
 
