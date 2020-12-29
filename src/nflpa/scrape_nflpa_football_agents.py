@@ -18,7 +18,7 @@ def main():
             page_data = scrape_main_table(page_url=page_url)
             data = data + page_data
 
-        json.dump(data=data, fp='nflpa_agents.json', ensure_ascii=True, indent=4)
+        json.dump(data=data, fp='../nfl_agents.json', ensure_ascii=True, indent=4)
 
     except:
         raise
