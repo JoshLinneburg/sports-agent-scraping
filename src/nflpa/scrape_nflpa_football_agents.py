@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import json
+import pandas as pd
 from nflpa_tools import BASE_URL, scrape_main_table, gather_page_urls
 
 
@@ -22,6 +23,9 @@ def main():
 
         with open("../../data/nfl_agents.json", "w") as f:
             json.dump(data, f, ensure_ascii=True, indent=4)
+
+        df = pd.json_normalize(data)
+        df.to_csv("../../data/nfl_agents.csv", index=False)
 
     except:
         raise

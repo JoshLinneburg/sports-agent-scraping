@@ -65,16 +65,24 @@
     {
         "name": "Ky Adderley",
         "company": "The Adderley Group",
-        "company_address": "Philadelphia, PA",
+        "company_address": "",
         "url": "/profile/agent/62580",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
-            "detailed_address": "454 West Winona Street  Philadelphia, PA 19144",
+            "detailed_address": ",",
             "phone_nbr": [
-                "(917) 309-0799"
+                "2153603202"
             ],
-            "services": null,
-            "other_contact": null,
+            "services": [
+                "https://twitter.com/kyconnex",
+                "linkedin.com/in/https://www.linkedin.com/in/kyadderley/",
+                "https://www.kyadderley.com/"
+            ],
+            "other_contact": [
+                "https://twitter.com/https://twitter.com/kyconnex",
+                "https://www.linkedin.com/in/https://www.linkedin.com/in/kyadderley/",
+                "https://www.kyadderley.com/"
+            ],
             "education": []
         }
     },
@@ -197,7 +205,7 @@
     },
     {
         "name": "William Anderson",
-        "company": "ARN Sports and Entertainment",
+        "company": "",
         "company_address": "Charlotte, NC",
         "url": "/profile/agent/41795",
         "additional_data": {
@@ -220,11 +228,11 @@
     {
         "name": "Caitlin Aoki",
         "company": "Alliance Sports",
-        "company_address": "Los Angeles, CA",
+        "company_address": "Marina del Rey, CA",
         "url": "/profile/agent/63649",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
-            "detailed_address": "12777 W. Jefferson Blvd. Building D, Suite 3116 Los Angeles, CA 90066",
+            "detailed_address": "4209 Via Marina #105 Marina del Rey, CA 90292",
             "phone_nbr": null,
             "services": null,
             "other_contact": null,
@@ -352,7 +360,7 @@
     },
     {
         "name": "Spencer Armstrong",
-        "company": "MGA Sports Agency",
+        "company": "",
         "company_address": "",
         "url": "/profile/agent/66518",
         "additional_data": {
@@ -431,7 +439,7 @@
     },
     {
         "name": "Shahin Aslani",
-        "company": "",
+        "company": "Wasserman",
         "company_address": "Houston, TX",
         "url": "/profile/agent/48353",
         "additional_data": {
@@ -511,7 +519,9 @@
         "additional_data": {
             "certified": "NFLPA Certified since 2005",
             "detailed_address": "WME Sports 11 Madison Avenue New York, NY 10010",
-            "phone_nbr": null,
+            "phone_nbr": [
+                "(470) 538-6633"
+            ],
             "services": [
                 "Contract Negotiation",
                 "Endorsements",
@@ -845,14 +855,14 @@
     },
     {
         "name": "Tyrone Barnes",
-        "company": "",
+        "company": "Barnes Sports & Entertainment",
         "company_address": "Newport Beach, CA",
         "url": "/profile/agent/34409",
         "additional_data": {
             "certified": "NFLPA Certified since 2006",
             "detailed_address": "620 Newport Center Drive Suite 1100 Newport Beach, CA 92660",
             "phone_nbr": [
-                "(714) 791-4372"
+                "7147914372"
             ],
             "services": null,
             "other_contact": null,
@@ -943,12 +953,12 @@
     },
     {
         "name": "Jill Baxter",
-        "company": "Jill McBride Baxter, Sports Law Attorney",
-        "company_address": "Rolling Hills Estates, CA",
+        "company": "Jill McBride Baxter-Sports Attorney",
+        "company_address": "Shaver Lake, CA",
         "url": "/profile/agent/25571",
         "additional_data": {
             "certified": "NFLPA Certified since 1997",
-            "detailed_address": "55 Dappleygray Lane  Rolling Hills Estates, CA 90274",
+            "detailed_address": "41482 Sunset Rock Road PO Box 152 Shaver Lake, CA 93664",
             "phone_nbr": [
                 "(559) 250-0151"
             ],
@@ -957,6 +967,7 @@
             ],
             "other_contact": [
                 "https://twitter.com/@J_mcbridebaxter",
+                "https://www.linkedin.com/in/Jill Baxter ",
                 "http://www.jillmcbridebaxter.com"
             ],
             "education": [
@@ -1032,7 +1043,7 @@
     },
     {
         "name": "Robert Beeman",
-        "company": "RLB L.L.C",
+        "company": "RLB Sports Management",
         "company_address": "Helena, AL",
         "url": "/profile/agent/25708",
         "additional_data": {
@@ -1318,12 +1329,12 @@
     },
     {
         "name": "Stanley Bien-Aime",
-        "company": "AMG Sports",
+        "company": "AMG SPORTS",
         "company_address": "Miami, FL",
         "url": "/profile/agent/36985",
         "additional_data": {
             "certified": "NFLPA Certified since 2005",
-            "detailed_address": "1 NW 89th Street  Miami, FL 33150",
+            "detailed_address": "9125 NW 22 Ave  Miami, FL 33147",
             "phone_nbr": [
                 "(305) 975-7882"
             ],
@@ -1402,7 +1413,7 @@
             "certified": "NFLPA Certified since 2002",
             "detailed_address": "4402 Voyager Drive  Frisco, TX 75034-2793",
             "phone_nbr": [
-                "(214) 336-5452"
+                "2143365452"
             ],
             "services": [
                 "Career Counseling",
@@ -1416,6 +1427,8 @@
                 "Tax Advice Referral"
             ],
             "other_contact": [
+                "https://twitter.com/@GarrietBlair",
+                "https://www.linkedin.com/in/LinkedIn.com/in/garriet-blair-a0157239",
                 "http://www.gmbmanagement.com"
             ],
             "education": [
@@ -1609,7 +1622,7 @@
             "certified": "NFLPA Certified since 2019",
             "detailed_address": "229 E Main St  Elkton, MD 21921",
             "phone_nbr": [
-                "(410) 885-6200"
+                "667-220-6500"
             ],
             "services": [
                 "Contract Negotiation",
@@ -2016,7 +2029,7 @@
             "certified": "NFLPA Certified since 2018",
             "detailed_address": "c- PSM , 5145 S Dale Mabry Highway Unit #21113 Tampa, FL 33611",
             "phone_nbr": [
-                "61424222000"
+                "(614) 242-2200"
             ],
             "services": [
                 "www.pacificsportsmanagement.com"
@@ -2239,14 +2252,14 @@
     },
     {
         "name": "Kristin Campbell",
-        "company": "40 Sports & Entertainment Group",
+        "company": "",
         "company_address": "Miramar, FL",
         "url": "/profile/agent/43528",
         "additional_data": {
             "certified": "NFLPA Certified since 2010",
-            "detailed_address": "16571 SW 18th Street  Miramar, FL 33027",
+            "detailed_address": "17113 Miramar Parkway 173 Miramar, FL 33027",
             "phone_nbr": [
-                "(954) 661-6026"
+                "9546616026"
             ],
             "services": null,
             "other_contact": null,
@@ -2319,7 +2332,7 @@
     },
     {
         "name": "Patrick Capra",
-        "company": "Malka Sports",
+        "company": "",
         "company_address": "Verona, NJ",
         "url": "/profile/agent/30994",
         "additional_data": {
@@ -2535,7 +2548,7 @@
     },
     {
         "name": "Scott Casterline",
-        "company": "Team Sports",
+        "company": "",
         "company_address": "Dallas, TX",
         "url": "/profile/agent/14433",
         "additional_data": {
@@ -2729,7 +2742,7 @@
     },
     {
         "name": "Carter Chow",
-        "company": "Yee & Dubin Sports, LLC",
+        "company": "",
         "company_address": "Pasadena, CA",
         "url": "/profile/agent/39751",
         "additional_data": {
@@ -2800,7 +2813,7 @@
     },
     {
         "name": "Joseph Clayborne",
-        "company": "Agility Sports",
+        "company": "",
         "company_address": "Scottsdale, AZ",
         "url": "/profile/agent/46800",
         "additional_data": {
@@ -2849,14 +2862,14 @@
     },
     {
         "name": "Alexis Cobb",
-        "company": "ASC Executive Group, LLC",
+        "company": "",
         "company_address": "Pittsburgh, PA",
         "url": "/profile/agent/43451",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
-            "detailed_address": "651 Holiday Drive Foster Plaza 5, Suite 300 Pittsburgh, PA 15220",
+            "detailed_address": "301 Grant Street Suite 270 Pittsburgh, PA 15219",
             "phone_nbr": [
-                "(412) 928-3677"
+                "(724) 920 0845 x 1005"
             ],
             "services": [
                 "Contract Negotiation",
@@ -2872,12 +2885,12 @@
     },
     {
         "name": "Jeremy Cohen",
-        "company": "JL Sports",
+        "company": "",
         "company_address": "New York, NY",
         "url": "/profile/agent/49482",
         "additional_data": {
             "certified": "NFLPA Certified since 2016",
-            "detailed_address": "50 West 34th Street, 11a8 11a8 New York, NY 10001",
+            "detailed_address": "50 West 34th Street, 11A8 New York, NY 10001",
             "phone_nbr": null,
             "services": [
                 "Other Services"
@@ -2918,13 +2931,15 @@
     },
     {
         "name": "Giles Cole",
-        "company": "GC group holdings",
-        "company_address": "Orange, TX",
+        "company": "Max Q Sports and Entertainment",
+        "company_address": "Houston, TX",
         "url": "/profile/agent/28995",
         "additional_data": {
             "certified": "NFLPA Certified since 2017",
-            "detailed_address": "6642 Hudnall Road  Orange, TX 77632",
-            "phone_nbr": null,
+            "detailed_address": "6642 hudnall rd  Houston, TX 77077",
+            "phone_nbr": [
+                "4096788646"
+            ],
             "services": [
                 "Contract Negotiation",
                 "Endorsements",
@@ -2989,11 +3004,11 @@
     {
         "name": "Billy Conaty",
         "company": "",
-        "company_address": "Sparks, NJ",
+        "company_address": "Sparks, MD",
         "url": "/profile/agent/25161",
         "additional_data": {
             "certified": "NFLPA Certified since 2008",
-            "detailed_address": "954 Ridgebrook Road Suite 320  Sparks, NJ 21152",
+            "detailed_address": "954 Ridgebrook Road Suite 320  Sparks, MD 21152",
             "phone_nbr": [
                 "(609) 254-3424"
             ],
@@ -3210,13 +3225,13 @@
     {
         "name": "Neil Cornrich",
         "company": "NC Sports, LLC",
-        "company_address": "",
+        "company_address": "Beachwood, OH",
         "url": "/profile/agent/01643",
         "additional_data": {
             "certified": "NFLPA Certified since 1983",
-            "detailed_address": ",",
+            "detailed_address": "2000 Auburn Drive Suite 315 Beachwood, OH 44122",
             "phone_nbr": [
-                "(216) 514-9999"
+                "2165149999"
             ],
             "services": [
                 "Career Counseling",
@@ -3228,11 +3243,12 @@
             ],
             "other_contact": [
                 "https://twitter.com/NeilCornrich",
-                "https://www.linkedin.com/in/neil-cornrich-36b5a411/",
+                "https://www.linkedin.com/in/https://www.linkedin.com/in/neil-cornrich-36b5a411/",
                 "http://www.neilcornrich.com"
             ],
             "education": [
-                "Ohio Northern College of Law",
+                "Law",
+                "The Ohio State University Moritz College of Law",
                 "Michigan"
             ]
         }
@@ -3430,7 +3446,7 @@
     },
     {
         "name": "Johnny Cruz",
-        "company": "",
+        "company": "Underdog Sports Agency",
         "company_address": "North Hollywood, CA",
         "url": "/profile/agent/55941",
         "additional_data": {
@@ -3604,7 +3620,7 @@
     },
     {
         "name": "Michael De Sane",
-        "company": "",
+        "company": "Divine Sports & Entertainment LLC",
         "company_address": "Bronx, NY",
         "url": "/profile/agent/54759",
         "additional_data": {
@@ -3771,7 +3787,7 @@
     },
     {
         "name": "Edward Dent",
-        "company": "",
+        "company": "The Sports & Entertainment Group",
         "company_address": "Washington, DC",
         "url": "/profile/agent/66543",
         "additional_data": {
@@ -3810,12 +3826,12 @@
     },
     {
         "name": "Paul DeRousselle",
-        "company": "C2 Sports",
+        "company": "",
         "company_address": "Dallas, TX",
         "url": "/profile/agent/45585",
         "additional_data": {
             "certified": "NFLPA Certified since 2012",
-            "detailed_address": "8250 Meadow Road #5235 Dallas, TX 75231",
+            "detailed_address": "8250 Meadow Road  Dallas, TX 75231",
             "phone_nbr": [
                 "(972) 653-0811"
             ],
@@ -3873,11 +3889,11 @@
     {
         "name": "R.K. Dogra",
         "company": "Nexus Sports, LLC",
-        "company_address": "St Louis, MO",
+        "company_address": "Las Vegas, NV",
         "url": "/profile/agent/22299",
         "additional_data": {
             "certified": "NFLPA Certified since 1995",
-            "detailed_address": "10076 Litzsinger Road  St Louis, MO 63124",
+            "detailed_address": "2700 Las Vegas Blvd S Unit 4301 Las Vegas, NV 89109",
             "phone_nbr": [
                 "(314) 302-2176"
             ],
@@ -4088,14 +4104,14 @@
     },
     {
         "name": "Matthew Dupre",
-        "company": "Elite Athlete Management",
-        "company_address": "Chandler, AZ",
+        "company": "Alliance Sports",
+        "company_address": "NEW ORLEANS, LA",
         "url": "/profile/agent/54762",
         "additional_data": {
             "certified": "NFLPA Certified since 2016",
-            "detailed_address": "2390 W. Ray Road Suite 3 Chandler, AZ 85224",
+            "detailed_address": "11444 S EASTERLYN CIRCLE  NEW ORLEANS, LA 70128",
             "phone_nbr": [
-                "(504) 232-0538"
+                "5042320538"
             ],
             "services": [],
             "other_contact": null,
@@ -4171,7 +4187,7 @@
     },
     {
         "name": "Eric Eastham",
-        "company": "The Familie V2",
+        "company": "The Familie",
         "company_address": "Cardiff, CA",
         "url": "/profile/agent/62541",
         "additional_data": {
@@ -4333,7 +4349,7 @@
     },
     {
         "name": "F. Thomas Edwards Jr.",
-        "company": "HD Sports",
+        "company": "",
         "company_address": "Las Vegas, NV",
         "url": "/profile/agent/66547",
         "additional_data": {
@@ -5040,24 +5056,24 @@
     },
     {
         "name": "Jesse Foreman",
-        "company": "ProSource",
+        "company": "",
         "company_address": "Monroe, LA",
         "url": "/profile/agent/48409",
         "additional_data": {
             "certified": "NFLPA Certified since 2014",
             "detailed_address": "2200 Forsythe Avenue  Monroe, LA 71201",
             "phone_nbr": [
-                "(859) 640-8053"
+                "(513) 800-2933"
             ],
             "services": [
                 "nflagent1",
                 "linkedin.com/in/linkedin.com/in/jesseforeman",
-                "https://prosourcesports.com/"
+                "https://thenflagent.com"
             ],
             "other_contact": [
                 "https://twitter.com/nflagent1",
                 "https://www.linkedin.com/in/linkedin.com/in/jesseforeman",
-                "https://prosourcesports.com/"
+                "https://thenflagent.com "
             ],
             "education": []
         }
@@ -5242,18 +5258,21 @@
     {
         "name": "Robert Fry",
         "company": "Gil Scott Sports Management",
-        "company_address": "Chestermere, AB",
+        "company_address": "Calgary, AL",
         "url": "/profile/agent/54772",
         "additional_data": {
             "certified": "NFLPA Certified since 2016",
-            "detailed_address": "258 Westchester Blvd  Chestermere, AB t1x1s4",
+            "detailed_address": "1802 - 188 15th Ave SW  Calgary, AL 11111",
             "phone_nbr": [
                 "(780) 996-7205"
             ],
             "services": [
                 "Contract Negotiation"
             ],
-            "other_contact": null,
+            "other_contact": [
+                "https://twitter.com/@fryzee7",
+                "www.gilscottsports.com"
+            ],
             "education": [
                 "Concordia University Chicago",
                 "Saskatchewan (Canada)"
@@ -5733,7 +5752,7 @@
             "certified": "NFLPA Certified since 1995",
             "detailed_address": "312 Walnut Street Suite 2120 Cincinnati, OH 45202",
             "phone_nbr": [
-                "(513) 362-4325"
+                "513-520-6003"
             ],
             "services": [
                 "Contract Negotiation",
@@ -5904,7 +5923,7 @@
         "url": "/profile/agent/55973",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
-            "detailed_address": "444 Saratoga Ave 13D Santa Clara, CA 95050",
+            "detailed_address": "PO BOX  Santa Clara, CA 95050",
             "phone_nbr": [
                 "(904) 514-2890"
             ],
@@ -6057,7 +6076,7 @@
             "certified": "NFLPA Certified since 2016",
             "detailed_address": "2374 Collins Road  Pittsburgh, PA 15235",
             "phone_nbr": [
-                "412-983-6699"
+                "4129836699"
             ],
             "services": [
                 "Contract Negotiation",
@@ -6115,7 +6134,7 @@
     },
     {
         "name": "Jordan Hagedorn",
-        "company": "BTI Sports Advisors",
+        "company": "",
         "company_address": "Eau Claire, WI",
         "url": "/profile/agent/49504",
         "additional_data": {
@@ -6157,12 +6176,12 @@
     },
     {
         "name": "Ray Haija",
-        "company": "ELITE Athlete Management",
-        "company_address": "",
+        "company": "ELITE Athlete Managment",
+        "company_address": "Seattle, WA",
         "url": "/profile/agent/55974",
         "additional_data": {
             "certified": "NFLPA Certified since 2017",
-            "detailed_address": ",",
+            "detailed_address": "500 Yale Ave. N  Seattle, WA 98109",
             "phone_nbr": [
                 "8086738769"
             ],
@@ -6170,8 +6189,8 @@
                 "Contract Negotiation"
             ],
             "other_contact": [
-                "https://twitter.com/RayHaija",
-                "https://www.linkedin.com/in/https://www.linkedin.com/in/ray-haija-phd-mba-662bb114a"
+                "https://twitter.com/@RayHaija",
+                "https://www.linkedin.com/in/shorturl.at/bcoET"
             ],
             "education": [
                 "Colorado State University",
@@ -6183,14 +6202,12 @@
     {
         "name": "Yonas Haile",
         "company": "Lion's Share Sports Group",
-        "company_address": "New York, NY",
+        "company_address": "",
         "url": "/profile/agent/49505",
         "additional_data": {
             "certified": "NFLPA Certified since 2015",
-            "detailed_address": "455 W 37th St Suite 1903 New York, NY 10018",
-            "phone_nbr": [
-                "(318) 243-3815"
-            ],
+            "detailed_address": ",",
+            "phone_nbr": null,
             "services": [
                 "Public Relations",
                 "Other Services"
@@ -6223,7 +6240,7 @@
     },
     {
         "name": "Jimmy Halsell",
-        "company": "Octagon",
+        "company": "",
         "company_address": "Phoenix, AZ",
         "url": "/profile/agent/45608",
         "additional_data": {
@@ -6299,7 +6316,7 @@
     },
     {
         "name": "Brian Hannula",
-        "company": "",
+        "company": "Alliance Sports",
         "company_address": "San Diego, CA",
         "url": "/profile/agent/45609",
         "additional_data": {
@@ -6513,7 +6530,7 @@
         "url": "/profile/agent/34342",
         "additional_data": {
             "certified": "NFLPA Certified since 2003",
-            "detailed_address": "5181 Wildcat Falls Drive  Dublin, OH 43016",
+            "detailed_address": "6200 Avery Rd Suite C Dublin, OH 43016",
             "phone_nbr": [
                 "(614) 394-2505"
             ],
@@ -6950,7 +6967,7 @@
     },
     {
         "name": "Jefferey Hood",
-        "company": "The Hood Law Group",
+        "company": "HLG Sports",
         "company_address": "College Park, GA",
         "url": "/profile/agent/46853",
         "additional_data": {
@@ -6960,9 +6977,11 @@
                 "(770) 451-6099"
             ],
             "services": [
+                "hlgsports",
                 "https://www.hlgsports.com"
             ],
             "other_contact": [
+                "https://twitter.com/hlgsports",
                 "https://www.hlgsports.com"
             ],
             "education": [
@@ -7104,12 +7123,10 @@
                 "(678) 524-2582"
             ],
             "services": [
-                "@007thh",
-                "http://www.krs3sports.com"
+                "@007thh"
             ],
             "other_contact": [
-                "https://twitter.com/@007thh",
-                "http://www.krs3sports.com"
+                "https://twitter.com/@007thh"
             ],
             "education": []
         }
@@ -7242,7 +7259,7 @@
             "certified": "NFLPA Certified since 2013",
             "detailed_address": "10900 Wilshire Blvd #1200 Los Angeles, CA 90024",
             "phone_nbr": [
-                "(310) 407-0200"
+                "(310) 919-6848"
             ],
             "services": [],
             "other_contact": null,
@@ -7536,12 +7553,12 @@
     },
     {
         "name": "William Johnson",
-        "company": "",
+        "company": "Apex Sports Group",
         "company_address": "Franklin, TN",
         "url": "/profile/agent/28411",
         "additional_data": {
             "certified": "NFLPA Certified since 2000",
-            "detailed_address": "313 Morning Mist Lane  Franklin, TN 37064",
+            "detailed_address": "313 Morning Mist Ln  Franklin, TN 37064",
             "phone_nbr": [
                 "(404) 229-6069"
             ],
@@ -7590,7 +7607,7 @@
     },
     {
         "name": "David Jones",
-        "company": "",
+        "company": "VIP Sports Management",
         "company_address": "Detroit, MI",
         "url": "/profile/agent/46862",
         "additional_data": {
@@ -7599,12 +7616,8 @@
             "phone_nbr": [
                 "(313) 549-4591"
             ],
-            "services": [
-                "http://www.vipsportsmgt.com"
-            ],
-            "other_contact": [
-                "http://www.vipsportsmgt.com"
-            ],
+            "services": null,
+            "other_contact": null,
             "education": []
         }
     },
@@ -7630,7 +7643,7 @@
     },
     {
         "name": "Ross Jones",
-        "company": "MGA Sports Agency",
+        "company": "",
         "company_address": "Henderson, NV",
         "url": "/profile/agent/62612",
         "additional_data": {
@@ -7700,12 +7713,12 @@
     },
     {
         "name": "Gavin Kahn",
-        "company": "EnterSports Management",
+        "company": "EnterSports Management, LLC",
         "company_address": "Plantation, FL",
         "url": "/profile/agent/34272",
         "additional_data": {
             "certified": "NFLPA Certified since 2003",
-            "detailed_address": "8211 W. Broward Blvd. Suite 200 Plantation, FL 33324",
+            "detailed_address": "2 South University Drive Suite 265 Plantation, FL 33324",
             "phone_nbr": [
                 "(954) 533-2866"
             ],
@@ -8105,7 +8118,7 @@
     },
     {
         "name": "Christian Kranz",
-        "company": "Pillar Sports",
+        "company": "",
         "company_address": "Williamsville, NY",
         "url": "/profile/agent/49531",
         "additional_data": {
@@ -8118,8 +8131,7 @@
                 "Other Services"
             ],
             "other_contact": [
-                "https://twitter.com/ChristianTKranz",
-                "http://www.pillarsportsagency.com"
+                "https://twitter.com/ChristianTKranz"
             ],
             "education": []
         }
@@ -8179,7 +8191,7 @@
     },
     {
         "name": "Kristen Kuliga",
-        "company": "",
+        "company": "Vanguard Sports Group",
         "company_address": "Assonet, MA",
         "url": "/profile/agent/29872",
         "additional_data": {
@@ -8255,11 +8267,11 @@
     {
         "name": "Chris Lambiris",
         "company": "",
-        "company_address": "Saskatoon, SK",
+        "company_address": "Montreal, QC, CA",
         "url": "/profile/agent/62509",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
-            "detailed_address": "430 Victor Place  Saskatoon, SK S7T0E2",
+            "detailed_address": "438 Rue McGill #200  Montreal, QC, CA 90210",
             "phone_nbr": [
                 "(306) 850-8550"
             ],
@@ -8288,12 +8300,12 @@
             "services": [
                 "@nolamo77",
                 "linkedin.com/in/noel-lamontagne-8648958",
-                "www.compasssportsadvisors.com"
+                "www.Verdence.com"
             ],
             "other_contact": [
                 "https://twitter.com/@nolamo77",
                 "https://www.linkedin.com/in/noel-lamontagne-8648958",
-                "www.compasssportsadvisors.com"
+                "www.Verdence.com"
             ],
             "education": [
                 "Virginia",
@@ -8323,7 +8335,7 @@
     },
     {
         "name": "Joseph Landrum",
-        "company": "CAA Sports",
+        "company": "CAA Football",
         "company_address": "Nashville, TN",
         "url": "/profile/agent/41884",
         "additional_data": {
@@ -8444,7 +8456,7 @@
     },
     {
         "name": "Robert Lattinville",
-        "company": "Nexus Sports, LLC",
+        "company": "WME/Endeavor",
         "company_address": "St. Louis, MO",
         "url": "/profile/agent/16863",
         "additional_data": {
@@ -8715,12 +8727,12 @@
     },
     {
         "name": "Brian Levy",
-        "company": "Goal Line Football",
-        "company_address": "Bay Harbor Islands, FL",
+        "company": "",
+        "company_address": "North Miami, FL",
         "url": "/profile/agent/17726",
         "additional_data": {
             "certified": "NFLPA Certified since 1990",
-            "detailed_address": "1025 Kane Concourse Suite 207 Bay Harbor Islands, FL 33154",
+            "detailed_address": "12000 Biscayne Blvd Suite 505 North Miami, FL 33181",
             "phone_nbr": [
                 "(305) 861-0722"
             ],
@@ -8994,7 +9006,7 @@
             "certified": "NFLPA Certified since 2012",
             "detailed_address": "1363 Shermer Road Suite 320 Northbrook, IL 60062",
             "phone_nbr": [
-                "(847) 656-9201"
+                "847-656-9201"
             ],
             "services": [
                 "Legal Services"
@@ -9100,7 +9112,7 @@
     },
     {
         "name": "Nicole Lynn",
-        "company": "Young Money APAA Sports",
+        "company": "Klutch Sports",
         "company_address": "Houston, TX",
         "url": "/profile/agent/49536",
         "additional_data": {
@@ -9163,12 +9175,12 @@
     },
     {
         "name": "John Maghamez",
-        "company": "Crown Endeavors, LLC",
-        "company_address": "Richmond, VA",
+        "company": "",
+        "company_address": "Mechanicsville, VA",
         "url": "/profile/agent/56001",
         "additional_data": {
             "certified": "NFLPA Certified since 2017",
-            "detailed_address": "2914 Ellwood Ave  Richmond, VA 23221",
+            "detailed_address": "9543 Plateau Place  Mechanicsville, VA 23116",
             "phone_nbr": null,
             "services": [
                 "Contract Negotiation",
@@ -9314,12 +9326,12 @@
     },
     {
         "name": "Steven Mancillas",
-        "company": "",
-        "company_address": "",
+        "company": "Lgndary Sports All-Pro",
+        "company_address": "Miami, FL",
         "url": "/profile/agent/54818",
         "additional_data": {
             "certified": "NFLPA Certified since 2016",
-            "detailed_address": ",",
+            "detailed_address": "40 SW 13th Street Suite 101 Miami, FL 33130",
             "phone_nbr": [
                 "(281) 813-1992"
             ],
@@ -9510,7 +9522,9 @@
         "additional_data": {
             "certified": "NFLPA Certified since 2005",
             "detailed_address": "7 NE 6th St. Suite 100 Oklahoma City, OK 73104",
-            "phone_nbr": null,
+            "phone_nbr": [
+                "(405) 706-3185"
+            ],
             "services": [
                 "Career Counseling",
                 "Contract Negotiation",
@@ -9532,7 +9546,7 @@
     },
     {
         "name": "Rilio Mastrantonio",
-        "company": "Capital Sports Advisors",
+        "company": "",
         "company_address": "Lansing, IL",
         "url": "/profile/agent/45649",
         "additional_data": {
@@ -9542,10 +9556,10 @@
                 "(708) 372-6478"
             ],
             "services": [
-                "http://www.capitalsportsadvisors.com"
+                "http://www.sharksportsfootball.com"
             ],
             "other_contact": [
-                "http://www.capitalsportsadvisors.com"
+                "http://www.sharksportsfootball.com"
             ],
             "education": []
         }
@@ -10133,12 +10147,12 @@
     },
     {
         "name": "James Miller",
-        "company": "Off-Tackle Sports Management",
-        "company_address": "El Cajon, CA",
+        "company": "Off-Tackle Sports Mgt.",
+        "company_address": "EL CAJON, CA",
         "url": "/profile/agent/24813",
         "additional_data": {
             "certified": "NFLPA Certified since 1997",
-            "detailed_address": "181 Rea Avenue Suite 101 El Cajon, CA 92020",
+            "detailed_address": "553 N MAGNOLIA AVE  EL CAJON, CA 92020",
             "phone_nbr": [
                 "619-590-0383"
             ],
@@ -10595,7 +10609,7 @@
     },
     {
         "name": "Christopher Murray",
-        "company": "Imani Sports, LLC",
+        "company": "Imani Sports",
         "company_address": "Plymouth, MN",
         "url": "/profile/agent/26845",
         "additional_data": {
@@ -10713,12 +10727,12 @@
     },
     {
         "name": "Jeffrey Nalley",
-        "company": "Select Sports Group",
+        "company": "",
         "company_address": "Austin, TX",
         "url": "/profile/agent/22200",
         "additional_data": {
             "certified": "NFLPA Certified since 1995",
-            "detailed_address": "12500 Maidenhair  Austin, TX 78738",
+            "detailed_address": "12109 Rayner Pl  Austin, TX 78738",
             "phone_nbr": [
                 "(713) 993-4640"
             ],
@@ -10839,9 +10853,7 @@
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
             "detailed_address": "2021 Fairview Road  Raleigh, NC 27608",
-            "phone_nbr": [
-                "919-480-8490"
-            ],
+            "phone_nbr": null,
             "services": [
                 "Contract Negotiation",
                 "Endorsements",
@@ -10982,7 +10994,7 @@
     },
     {
         "name": "Adam O'Neil",
-        "company": "",
+        "company": "Davison & O'Neil, PLLC",
         "company_address": "Orlando, FL",
         "url": "/profile/agent/46900",
         "additional_data": {
@@ -10992,10 +11004,10 @@
                 "(407) 403-6740"
             ],
             "services": [
-                "http://www.oneilsports.com"
+                "http://www.davisononeil.com"
             ],
             "other_contact": [
-                "http://www.oneilsports.com"
+                "http://www.davisononeil.com"
             ],
             "education": [
                 "Cooley Law School (Western Michigan)"
@@ -11020,14 +11032,14 @@
     },
     {
         "name": "Henry Organ",
-        "company": "Disruptive",
+        "company": "",
         "company_address": "Berkeley, CA",
         "url": "/profile/agent/55577",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
             "detailed_address": "1569 SOLANO AVE #134  Berkeley, CA 94707",
             "phone_nbr": [
-                "5103672805"
+                "(510) 367-2805"
             ],
             "services": [
                 "Henryorgann",
@@ -11238,11 +11250,11 @@
     {
         "name": "Austin Parker",
         "company": "Independent Sports & Entertainment",
-        "company_address": "Atlanta, GA",
+        "company_address": "",
         "url": "/profile/agent/62487",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
-            "detailed_address": "2828 Peachtree Rd NW Apt # 2503 Atlanta, GA 30305",
+            "detailed_address": ",",
             "phone_nbr": [
                 "(260) 417-2565"
             ],
@@ -11420,11 +11432,11 @@
     {
         "name": "James Paul",
         "company": "",
-        "company_address": "Coral Springs, FL",
+        "company_address": "Coconut Creek, FL",
         "url": "/profile/agent/28476",
         "additional_data": {
             "certified": "NFLPA Certified since 2000",
-            "detailed_address": "4143 NW 90th Ave Apt. 104 Coral Springs, FL 33065",
+            "detailed_address": "5125 Heron Place  Coconut Creek, FL 33073",
             "phone_nbr": [
                 "(917) 562-9607"
             ],
@@ -11438,7 +11450,9 @@
                 "Post Career Counseling",
                 "Tax Advice Referral"
             ],
-            "other_contact": null,
+            "other_contact": [
+                "https://twitter.com/@JamesPaulNFL"
+            ],
             "education": [
                 "St. John's University (NY)",
                 "St. John's University"
@@ -11622,7 +11636,7 @@
     },
     {
         "name": "Austin Pfenninger",
-        "company": "",
+        "company": "Pfenninger Representation Group (PRG)",
         "company_address": "Carmel, IN",
         "url": "/profile/agent/62488",
         "additional_data": {
@@ -11653,7 +11667,7 @@
             "certified": "NFLPA Certified since 2005",
             "detailed_address": "2829 SW 119th Way  Miramar, FL 33025",
             "phone_nbr": [
-                "(803) 979-7971"
+                "(954) 644-9905"
             ],
             "services": [
                 "Career Counseling",
@@ -11696,11 +11710,11 @@
     {
         "name": "Markenson Pierre",
         "company": "",
-        "company_address": "Hollywood, FL",
+        "company_address": "Fort Lauderdale, FL",
         "url": "/profile/agent/66611",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
-            "detailed_address": "1776 Polk Street Apt 811 Hollywood, FL 33020",
+            "detailed_address": "400 SW 1st Avenue Apt 2101 Fort Lauderdale, FL 33301",
             "phone_nbr": [
                 "9043148865"
             ],
@@ -11787,14 +11801,14 @@
     },
     {
         "name": "Tabetha Plummer",
-        "company": "Represent International Sports and Entertainment, LLC",
-        "company_address": "",
+        "company": "",
+        "company_address": "Encino, CA",
         "url": "/profile/agent/56029",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
-            "detailed_address": ",",
+            "detailed_address": "16255 Ventura Boulevard Suite 625 Encino, CA 91436",
             "phone_nbr": [
-                "(818) 305-6050 ext. 1"
+                "(818) 305-6050"
             ],
             "services": [
                 "Contract Negotiation",
@@ -11897,7 +11911,7 @@
     },
     {
         "name": "Ciro Poppiti, III",
-        "company": "",
+        "company": "Poppiti Law / FrontRow Sports",
         "company_address": "Wilmington, DE",
         "url": "/profile/agent/66612",
         "additional_data": {
@@ -11906,8 +11920,14 @@
             "phone_nbr": [
                 "(302) 521-5461"
             ],
-            "services": null,
-            "other_contact": null,
+            "services": [
+                "@FrontRowAgents",
+                "www.frontrowreps.com"
+            ],
+            "other_contact": [
+                "https://twitter.com/@FrontRowAgents",
+                "www.frontrowreps.com"
+            ],
             "education": []
         }
     },
@@ -11975,14 +11995,14 @@
     },
     {
         "name": "Jacob Presser",
-        "company": "",
-        "company_address": "New York, NY",
+        "company": "Milk & Honey Sports",
+        "company_address": "",
         "url": "/profile/agent/45668",
         "additional_data": {
             "certified": "NFLPA Certified since 2012",
-            "detailed_address": "200 E 33 St 23 E New York, NY 10016",
+            "detailed_address": ",",
             "phone_nbr": [
-                "(215) 266-6279"
+                "2152666279"
             ],
             "services": null,
             "other_contact": null,
@@ -12061,7 +12081,7 @@
     },
     {
         "name": "Elan Rafael",
-        "company": "",
+        "company": "Players First Sports",
         "company_address": "Baltimore, MD",
         "url": "/profile/agent/54843",
         "additional_data": {
@@ -12157,7 +12177,7 @@
         "url": "/profile/agent/43412",
         "additional_data": {
             "certified": "NFLPA Certified since 2013",
-            "detailed_address": "WME Sports 11 Madison Avenue New York, NY 10010",
+            "detailed_address": "11 Madison Avenue  New York, NY 10010",
             "phone_nbr": null,
             "services": null,
             "other_contact": null,
@@ -12261,12 +12281,12 @@
     },
     {
         "name": "Brantley Richerson",
-        "company": "International Sports Advisors, Inc.",
-        "company_address": "Daphne, AL",
+        "company": "",
+        "company_address": "Fairhope, AL",
         "url": "/profile/agent/62495",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
-            "detailed_address": "405 Village Drive  Daphne, AL 36526",
+            "detailed_address": "455 Magnolia Ave Suite C1 Fairhope, AL 36532",
             "phone_nbr": [
                 "(251) 421-5348"
             ],
@@ -12671,7 +12691,9 @@
         "additional_data": {
             "certified": "NFLPA Certified since 1988",
             "detailed_address": "3921 Alton Road Suite #440 Miami Beach, FL 33140",
-            "phone_nbr": null,
+            "phone_nbr": [
+                "(305) 724-8252"
+            ],
             "services": [
                 "Career Counseling",
                 "Contract Negotiation",
@@ -12893,7 +12915,7 @@
     },
     {
         "name": "Dan Saffron",
-        "company": "PFS Agency",
+        "company": "Steinberg Sports & Entertainment",
         "company_address": "Baltimore, MD",
         "url": "/profile/agent/44669",
         "additional_data": {
@@ -12906,7 +12928,8 @@
                 "Other Services"
             ],
             "other_contact": [
-                "http://www.pfs-agency.com"
+                "https://twitter.com/nflagentdan",
+                "www.steinbergsports.com"
             ],
             "education": []
         }
@@ -13010,12 +13033,12 @@
     },
     {
         "name": "Zeke Sandhu",
-        "company": "Elite Athlete Management",
-        "company_address": "",
+        "company": "",
+        "company_address": "Chandler, AZ",
         "url": "/profile/agent/29817",
         "additional_data": {
             "certified": "NFLPA Certified since 2001",
-            "detailed_address": ",",
+            "detailed_address": "180 S Arizona Ave Suite 205 Chandler, AZ 85225",
             "phone_nbr": [
                 "(480) 239-7272"
             ],
@@ -13080,7 +13103,7 @@
     },
     {
         "name": "Nicholas Sarris",
-        "company": "Keller Williams Metro Center",
+        "company": "Sarris Talent & Athletic Representation Services (STARS)",
         "company_address": "",
         "url": "/profile/agent/56041",
         "additional_data": {
@@ -13251,24 +13274,22 @@
     },
     {
         "name": "Erik Schmella",
-        "company": "Independent Sports & Entertainment",
-        "company_address": "Los Angeles, CA",
+        "company": "ISE",
+        "company_address": "",
         "url": "/profile/agent/48496",
         "additional_data": {
             "certified": "NFLPA Certified since 2014",
-            "detailed_address": "7401 W 81st Street  Los Angeles, CA 90045",
+            "detailed_address": ",",
             "phone_nbr": [
                 "(206) 412-2401"
             ],
             "services": [
-                "1stPicksSports",
-                "linkedin.com/in/erik-schmella-2aa0578",
-                "http://firstpickssports.com/"
+                "iseworldwide",
+                "linkedin.com/in/erik-schmella-2aa0578"
             ],
             "other_contact": [
-                "https://twitter.com/1stPicksSports",
-                "https://www.linkedin.com/in/erik-schmella-2aa0578",
-                "http://firstpickssports.com/"
+                "https://twitter.com/iseworldwide",
+                "https://www.linkedin.com/in/erik-schmella-2aa0578"
             ],
             "education": []
         }
@@ -13641,19 +13662,21 @@
     },
     {
         "name": "Ben Seiz",
-        "company": "Independent",
-        "company_address": "Atlanta, GA",
+        "company": "",
+        "company_address": "",
         "url": "/profile/agent/45688",
         "additional_data": {
             "certified": "NFLPA Certified since 2012",
-            "detailed_address": "195 13th Street NE #1007 Atlanta, GA 30309",
+            "detailed_address": ",",
             "phone_nbr": [
                 "(310) 990-0881"
             ],
             "services": [
                 "Post Career Counseling"
             ],
-            "other_contact": null,
+            "other_contact": [
+                "https://www.linkedin.com/in/https://www.linkedin.com/in/benzseiz/"
+            ],
             "education": []
         }
     },
@@ -13675,7 +13698,7 @@
     },
     {
         "name": "Brett Senior",
-        "company": "Tier 1 Sports Management, LLC",
+        "company": "Tier1 Sports Management, LLC",
         "company_address": "Wayne, PA",
         "url": "/profile/agent/06984",
         "additional_data": {
@@ -13695,7 +13718,9 @@
                 "Tax Advice Referral"
             ],
             "other_contact": [
-                "http://seniormanagementgroup.com"
+                "https://twitter.com/@brettsenior",
+                "https://www.linkedin.com/in/brett-senior",
+                "seniormangamentgroup.com"
             ],
             "education": [
                 "Emory University",
@@ -14045,34 +14070,6 @@
         }
     },
     {
-        "name": "Wynn Silberman",
-        "company": "Wynn Media",
-        "company_address": "Saratoga, CA",
-        "url": "/profile/agent/36914",
-        "additional_data": {
-            "certified": "NFLPA Certified since 2005",
-            "detailed_address": "12821 Foothill Lane  Saratoga, CA 95070",
-            "phone_nbr": [
-                "(312) 735-1380"
-            ],
-            "services": [
-                "Contract Negotiation",
-                "Endorsements",
-                "Marketing",
-                "Public Relations"
-            ],
-            "other_contact": [
-                "https://twitter.com/@wynnsilberman",
-                "https://www.linkedin.com/in/Wynn Silberman",
-                "http://wynnsmedia.com"
-            ],
-            "education": [
-                "Santa Clara School of Law",
-                "Northwestern"
-            ]
-        }
-    },
-    {
         "name": "David Silva",
         "company": "Authentic Athletix",
         "company_address": "Gilroy, CA",
@@ -14113,14 +14110,14 @@
     },
     {
         "name": "Brian Simmons",
-        "company": "Continuum Management Group, LLC.",
+        "company": "Continuum Management Group LLC.",
         "company_address": "Indianapolis, IN",
         "url": "/profile/agent/56046",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
             "detailed_address": "133 W Market St  Indianapolis, IN 46204",
             "phone_nbr": [
-                "(800) 964-5211 ext. 103"
+                "(800) 964-5211 ext 103"
             ],
             "services": [
                 "Contract Negotiation",
@@ -14130,8 +14127,7 @@
             ],
             "other_contact": [
                 "https://twitter.com/@B_SIMMS",
-                "https://www.linkedin.com/in/https://www.linkedin.com/in/briansimmons-sportsagent/",
-                "https://www.continuummgmtgroup.com/"
+                "https://www.linkedin.com/in/https://www.linkedin.com/in/briansimmons-sportsagent/"
             ],
             "education": [
                 "Georgetown University (DC)",
@@ -14251,7 +14247,7 @@
     },
     {
         "name": "James Sims",
-        "company": "Sims Sports Management",
+        "company": "",
         "company_address": "Oakland, CA",
         "url": "/profile/agent/14895",
         "additional_data": {
@@ -14284,12 +14280,12 @@
     },
     {
         "name": "Thomas Sims",
-        "company": "Vaynersports",
-        "company_address": "New York, NY",
+        "company": "",
+        "company_address": "",
         "url": "/profile/agent/29943",
         "additional_data": {
             "certified": "NFLPA Certified since 2001",
-            "detailed_address": "10 Hudson Yards 25th Floor New York, NY 10001",
+            "detailed_address": ",",
             "phone_nbr": null,
             "services": [
                 "https://www.vaynersports.com"
@@ -14464,7 +14460,7 @@
     },
     {
         "name": "Lamont Smith",
-        "company": "Worldwide Sports Entertainment Collective",
+        "company": "All Pro Sports & Entertainmnet",
         "company_address": "Denver, CO",
         "url": "/profile/agent/09976",
         "additional_data": {
@@ -14638,7 +14634,7 @@
     },
     {
         "name": "Chad Speck",
-        "company": "a3 Athletics",
+        "company": "",
         "company_address": "Knoxville, TN",
         "url": "/profile/agent/35600",
         "additional_data": {
@@ -14657,7 +14653,8 @@
                 "Other Services"
             ],
             "other_contact": [
-                "http://a3athletics.com"
+                "https://twitter.com/www.twitter.com/athreeathletics",
+                "http://www.a3athletics.com"
             ],
             "education": [
                 "Clemson University",
@@ -14693,14 +14690,14 @@
     },
     {
         "name": "Samuel Spina",
-        "company": "Neostar Football",
-        "company_address": "",
+        "company": "",
+        "company_address": "Miami, FL",
         "url": "/profile/agent/56050",
         "additional_data": {
             "certified": "NFLPA Certified since 2017",
-            "detailed_address": ",",
+            "detailed_address": "2 Biscayne Blvd. Suite 2600 Miami, FL 33131",
             "phone_nbr": [
-                "(786) 810-8469"
+                "(786) 510-8184"
             ],
             "services": [
                 "Endorsements"
@@ -15063,14 +15060,14 @@
     },
     {
         "name": "Michael Swenson",
-        "company": "Wasserman Media Group",
-        "company_address": "San Francisco, CA",
+        "company": "",
+        "company_address": "Larkspur, CA",
         "url": "/profile/agent/45706",
         "additional_data": {
             "certified": "NFLPA Certified since 2012",
-            "detailed_address": "580 Pacific Avenue  San Francisco, CA 94133",
+            "detailed_address": "700 Larkspur Landing Circle Suite 167 Larkspur, CA 94939",
             "phone_nbr": [
-                "(209) 604-6340"
+                "2096046340"
             ],
             "services": [
                 "Marketing",
@@ -15083,14 +15080,14 @@
     },
     {
         "name": "Thomas Tafelski",
-        "company": "The Detroit Group",
+        "company": "",
         "company_address": "Dearborn, MI",
         "url": "/profile/agent/19503",
         "additional_data": {
             "certified": "NFLPA Certified since 1992",
             "detailed_address": "24500 Fairmount Dr  Dearborn, MI 48124",
             "phone_nbr": [
-                "(313) 730-1066"
+                "3137181066"
             ],
             "services": [
                 "Contract Negotiation",
@@ -15161,7 +15158,7 @@
     },
     {
         "name": "Benjamin Taylor",
-        "company": "Taylor & Gomez Law Firm",
+        "company": "TaylorGomezLaw.com",
         "company_address": "Phoenix, AZ",
         "url": "/profile/agent/62492",
         "additional_data": {
@@ -15396,12 +15393,16 @@
         "url": "/profile/agent/46938",
         "additional_data": {
             "certified": "NFLPA Certified since 2013",
-            "detailed_address": "8160 Indian Hill Rd  Cincinnati, OH 45243",
+            "detailed_address": "7760 Tecumseh Trail  Cincinnati, OH 45243",
             "phone_nbr": [
                 "(513) 373-5754"
             ],
-            "services": [],
-            "other_contact": null,
+            "services": [
+                "@johnthornton"
+            ],
+            "other_contact": [
+                "https://twitter.com/@johnthornton"
+            ],
             "education": [
                 "West Virginia University"
             ]
@@ -15633,11 +15634,11 @@
     {
         "name": "Justin Turner",
         "company": "Turner Sports Management LLC",
-        "company_address": "Woodruff, SC",
+        "company_address": "Greer, SC",
         "url": "/profile/agent/43499",
         "additional_data": {
             "certified": "NFLPA Certified since 2010",
-            "detailed_address": "736 Three Wood Lane  Woodruff, SC 29388",
+            "detailed_address": "2601 Fews Bridge Rd  Greer, SC 29651",
             "phone_nbr": [
                 "(843) 504-8472"
             ],
@@ -15646,7 +15647,9 @@
                 "Financial Services",
                 "Post Career Counseling"
             ],
-            "other_contact": null,
+            "other_contact": [
+                "www.NFLagents.com"
+            ],
             "education": []
         }
     },
@@ -15746,7 +15749,7 @@
     },
     {
         "name": "Tim Valentyn",
-        "company": "Priority Sports & Entertainment",
+        "company": "",
         "company_address": "Verona, WI",
         "url": "/profile/agent/07958",
         "additional_data": {
@@ -15765,9 +15768,7 @@
                 "Tax Advice",
                 "Tax Advice Referral"
             ],
-            "other_contact": [
-                "http://www.prioritysports.biz"
-            ],
+            "other_contact": null,
             "education": [
                 "Wisconsin",
                 "Wisconsin-Eau Claire"
@@ -16004,7 +16005,7 @@
         "url": "/profile/agent/62534",
         "additional_data": {
             "certified": "NFLPA Certified since 2018",
-            "detailed_address": "1170 Peachtree St. NE Suite 1200 Atlanta, GA 30309",
+            "detailed_address": "1000 Parkwood Circle SW Suite 900 Atlanta, GA 30339",
             "phone_nbr": [
                 "(404) 541-6551"
             ],
@@ -16023,12 +16024,12 @@
     },
     {
         "name": "Nykeba Walker",
-        "company": "D&A Sports Agency",
-        "company_address": "Dallas, TX",
+        "company": "",
+        "company_address": "Atlanta, GA",
         "url": "/profile/agent/66646",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
-            "detailed_address": "7929 Churchill Way #2109 Dallas, TX 75251",
+            "detailed_address": "1308 Alexander Cir NE  Atlanta, GA 30326",
             "phone_nbr": [
                 "(318) 607-4194"
             ],
@@ -16087,7 +16088,7 @@
     },
     {
         "name": "Carmen Wallace",
-        "company": "Athletes First",
+        "company": "",
         "company_address": "Laguna Hills, CA",
         "url": "/profile/agent/36638",
         "additional_data": {
@@ -16096,8 +16097,12 @@
             "phone_nbr": [
                 "(949) 475-2222"
             ],
-            "services": null,
-            "other_contact": null,
+            "services": [
+                "@HollywoodVon"
+            ],
+            "other_contact": [
+                "https://twitter.com/@HollywoodVon"
+            ],
             "education": []
         }
     },
@@ -16108,7 +16113,7 @@
         "url": "/profile/agent/46943",
         "additional_data": {
             "certified": "NFLPA Certified since 2013",
-            "detailed_address": "PO Box 150067  Nashville, TN 37215",
+            "detailed_address": "615 3rd Avenue South, Suite 600  Nashville, TN 37210",
             "phone_nbr": [
                 "(731) 234-5651"
             ],
@@ -16481,7 +16486,7 @@
         "url": "/profile/agent/66648",
         "additional_data": {
             "certified": "NFLPA Certified since 2019",
-            "detailed_address": "1005 Goodman Circle Apt P  Gastonia, NC 28054",
+            "detailed_address": "2737 Sawbridge Lane  Gastonia, NC 28056",
             "phone_nbr": [
                 "(704) 433-0071"
             ],
@@ -16677,14 +16682,14 @@
     },
     {
         "name": "Aston Wilson",
-        "company": "",
+        "company": "Agency 1 Sports Group LLC",
         "company_address": "Coral Gables, FL",
         "url": "/profile/agent/45732",
         "additional_data": {
             "certified": "NFLPA Certified since 2012",
             "detailed_address": "2655 Le Jeune Road Suite 700 Coral Gables, FL 33134",
             "phone_nbr": [
-                "(786) 309-6013"
+                "305-505-7150"
             ],
             "services": [
                 "Legal Services"
@@ -16831,7 +16836,7 @@
     },
     {
         "name": "Timothy Younger",
-        "company": "Younger and Associates",
+        "company": "Younger & Associates",
         "company_address": "Rancho Cucamonga, CA",
         "url": "/profile/agent/18845",
         "additional_data": {
@@ -16846,6 +16851,7 @@
                 "Legal Services"
             ],
             "other_contact": [
+                "https://twitter.com/@YoungerAssoc",
                 "http://youngerassociates.net"
             ],
             "education": [
@@ -16857,13 +16863,13 @@
     {
         "name": "Kenneth Zuckerman",
         "company": "Priority Sports & Entertainment",
-        "company_address": "Sherman Oaks, CA",
+        "company_address": "Thousand Oaks, CA",
         "url": "/profile/agent/16248",
         "additional_data": {
             "certified": "NFLPA Certified since 1992",
-            "detailed_address": "15233 Ventura Blvd Suite 718 Sherman Oaks, CA 91403",
+            "detailed_address": "1429 Thousand Oaks Blvd. Suite 204 Thousand Oaks, CA 91362",
             "phone_nbr": [
-                "818-519-6444"
+                "818-817-5556"
             ],
             "services": [
                 "Contract Negotiation",
